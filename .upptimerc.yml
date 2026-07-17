@@ -1,10 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: devsquad007 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Bernad
+    url: https://bernadsatriani.net
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
