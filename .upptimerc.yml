@@ -2,6 +2,9 @@
 owner: devsquad007 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+status-website:
+  baseUrl: /upptime 
+  
 sites:
   - name: Bernad
     url: https://bernadsatriani.net
