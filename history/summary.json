@@ -4,17 +4,17 @@
     "url": "https://bernadsatriani.net",
     "icon": "https://icons.duckduckgo.com/ip3/bernadsatriani.net.ico",
     "slug": "bernad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1503,
-    "timeDay": 1597,
-    "timeWeek": 1695,
-    "timeMonth": 1503,
-    "timeYear": 1503,
+    "time": 2772,
+    "timeDay": 23745,
+    "timeWeek": 7220,
+    "timeMonth": 2840,
+    "timeYear": 2772,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 140,
     "timeDay": 41,
     "timeWeek": 128,
-    "timeMonth": 140,
+    "timeMonth": 139,
     "timeYear": 140,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 204,
     "timeDay": 69,
     "timeWeek": 205,
-    "timeMonth": 204,
+    "timeMonth": 198,
     "timeYear": 204,
     "dailyMinutesDown": {}
   }
