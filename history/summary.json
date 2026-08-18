@@ -4,19 +4,20 @@
     "url": "https://bernadsatriani.net",
     "icon": "https://icons.duckduckgo.com/ip3/bernadsatriani.net.ico",
     "slug": "bernad",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.87%",
-    "time": 3504,
-    "timeDay": 8630,
-    "timeWeek": 8224,
-    "timeMonth": 3719,
-    "timeYear": 3504,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.80%",
+    "time": 3592,
+    "timeDay": 9882,
+    "timeWeek": 8139,
+    "timeMonth": 3811,
+    "timeYear": 3592,
     "dailyMinutesDown": {
-      "2026-08-17": 60
+      "2026-08-17": 60,
+      "2026-08-18": 35
     }
   },
   {
